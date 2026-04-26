@@ -58,6 +58,15 @@ Customer-Churn-Analysis/
 [Google Drive Folder](https://drive.google.com/drive/folders/1170s0DJj1R7SonS9M5dmE-gKqDE6HC62)
 ---
 
+# 🏆 Achievement: First Place Award
+I am proud to share that this project was ranked **#1 (First Place)** in the **Data Analytics track** of the **Digital Egypt Pioneers Initiative (DEPI)**, awarded by the **Ministry of Communications and Information Technology (MCIT), Egypt**.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/EsraaSolimanMubarak/Telco-BI/aae069d45e6894e989013557098a23eac1b18b48/Customer-Churn-Analysis/Visuals/0001.%20First-Place%20Project" alt="First Place Certificate - MCIT" width="700">
+</p>
+
+*The project was evaluated based on data integrity, advanced analytics techniques, and the ability to drive data-informed business decisions.*
+
 ## 📊 Data Architecture
 The project follows the **Medallion Architecture** — a layered data design pattern that improves data quality and scalability across the pipeline.
 
